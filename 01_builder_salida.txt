@@ -1,0 +1,2 @@
+Coffee(size=grande, milk=almendra, sugar=2, extras=['canela'])
+Coffee(size=pequeño, milk=None, sugar=0, extras=[])

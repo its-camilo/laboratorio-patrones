@@ -1,0 +1,3 @@
+[Email] Servidor caído
+[SMS] Servidor caído
+[Slack] Servidor caído

@@ -1,0 +1,6 @@
+Proyector encendido
+Volumen en 7
+Reproduciendo 'Interstellar'
+Reproducción detenida
+Sonido apagado
+Proyector apagado

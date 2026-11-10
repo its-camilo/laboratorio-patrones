@@ -1,0 +1,4 @@
+
+DevTalks publicó: Patrones de Diseño en Python
+    -> Email a ana@x.com: nuevo video 'Patrones de Diseño en Python'
+   -> Push a @carlos: 'Patrones de Diseño en Python'

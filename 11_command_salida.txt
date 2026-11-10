@@ -1,0 +1,4 @@
+Luz: ON
+Luz: OFF
+Luz: ON
+Luz: OFF

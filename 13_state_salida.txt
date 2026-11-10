@@ -1,0 +1,4 @@
+Acción no permitida en este estado
+Pago recibido
+Pedido enviado
+Pedido entregado
